@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "003d696d-b5cd-4206-a41d-157814e6d2ee",
+      "name": "Tahiry",
+      "email": "tax@gmail.com"
+    },
+    {
+      "id": "b0fb7063-b586-4ae6-853c-77fadbdb5b96",
+      "name": "Mariano Kely",
+      "email": "Mariano@gmail.com"
+    },
+    {
+      "id": "cb6e0ad8-2eee-4383-bd59-c9bba6008519",
+      "name": "David",
+      "email": "david@test.com"
+    },
+    {
+      "id": "8ca338a6-0bb7-4b32-a72e-6cfabbc388f4",
+      "name": "Tsiory",
+      "email": "tsiory@gmail.com"
+    },
+    {
+      "id": "255ad0a8-2b73-4f87-a058-2d02d2ebe98c",
+      "name": "babacute kely",
+      "email": "babcute@gmail.com"
+    }
+  ]
+}
